@@ -1,5 +1,4 @@
-import { Component, inject } from '@angular/core';
-import { ChatService } from './shared/Chat.service';
+import { Component } from '@angular/core';
 
 
 @Component({
